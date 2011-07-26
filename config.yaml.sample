@@ -1,0 +1,6 @@
+pixiv:
+  id  : ''
+  pass: ''
+  dest_dir: ''
+  user_agent: 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+  referer: 'http://www.pixiv.net/mypage.php'
